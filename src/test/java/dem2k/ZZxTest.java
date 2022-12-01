@@ -114,6 +114,7 @@ public class ZZxTest {
     }
 
     @Test
+    @Ignore
     public void progrssImmidiat() throws InterruptedException {
         ProgressBar pb = new ProgressBarBuilder()
                 .setInitialMax(11)
