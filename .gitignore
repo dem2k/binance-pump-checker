@@ -1,8 +1,9 @@
-my-*
-xx-*
-gh-*
-git-*
-mvn-*
-zz_*
-.idea
-target
+/my-*
+/xx-*
+/gh-*
+/git-*
+/mvn-*
+/zz_*
+/.idea
+/target
+/_attic
