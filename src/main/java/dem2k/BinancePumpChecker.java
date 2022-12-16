@@ -21,7 +21,7 @@ import picocli.CommandLine;
         description = "Observes price changes on Binance.", showDefaultValues = false)
 public class BinancePumpChecker implements Callable<Integer> {
 
-    public final static String VERSION = "0.5.5";
+    public final static String VERSION = "0.5.6";
 
     private final DecimalFormat fmt2digit;
 
